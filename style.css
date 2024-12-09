@@ -1,0 +1,26 @@
+#birinchi{
+    background-color: #FDF7F4;
+    margin: 0 !important;
+}
+
+.myimage{
+    height: 200px;
+    border-radius: 50%;
+}
+
+
+.whoiam {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
+
+.myname{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
